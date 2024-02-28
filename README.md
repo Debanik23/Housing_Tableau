@@ -1,4 +1,4 @@
-@King County House Sales Data Visualization Project
+# King County House Sales Data Visualization Project
 
 Welcome to my latest Tableau project, where I've transformed King County, Washington's house sales data into an immersive and interactive data visualization experience! 🗺🏠
 
